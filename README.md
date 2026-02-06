@@ -1,8 +1,3 @@
-Nice 👍 I’ve updated the README to **include MySQL** cleanly and professionally, without overdoing it.
-You can **replace your existing README** with this one 👇
-
----
-
 # 🚀 50 Days of Java + DSA Challenge
 
 ## 📌 About This Repository
